@@ -1,0 +1,16 @@
+PID  burst Prio Atime ST  EN  TAT  WT  RT 
+P1 2 3 0 12 13 1 -1 12
+
+P2 3 2 2 8 10 2 -1 6
+
+P3 2 4 4 14 15 1 -1 10
+
+P4 3 1 0 0 5 5 2 0
+
+P5 2 1 5 6 7 1 -1 1
+
+P6 1 2 6 11 11 0 -1 5
+
+P7 3 4 10 16 18 2 -1 6
+
+Average Waiting Time: -0.5714286Average Total Time: 1.7142857Average Response Time: 5.714286
